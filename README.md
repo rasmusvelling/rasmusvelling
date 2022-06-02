@@ -1,4 +1,4 @@
-I turn coffee into code
+I turn coffee into code.
 
 <!---
 rasmusvelling/rasmusvelling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
