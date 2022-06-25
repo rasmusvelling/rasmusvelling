@@ -1,4 +1,4 @@
-I turn coffee into code.
+I turn coffee into code & data into colorful charts.
 
 Work-ish stuff worth mentioning here:
 - https://rasmusvelling.github.io/
